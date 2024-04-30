@@ -21,7 +21,7 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&kp MINUS   &kp Q       &kp W           &kp F             &kp P        &kp T          &kp J        &kp L          &kp U        &kp Y       &kp SEMICOLON     &kp BACKSLASH
+&kp MINUS   &kp Q       &kp W           &kp F             &kp P        &kp B          &kp J        &kp L          &kp U        &kp Y       &kp SEMICOLON     &kp BACKSLASH
 &kp ESCAPE  &mt LGUI A  &mt LEFT_ALT R  &mt LEFT_SHIFT S  &mt LCTRL T  &kp G          &kp M        &mt RCTRL N    &mt RSHFT E  &mt RALT I  &mt RIGHT_META O  &kp SQT
 &kp TAB     &kp Z       &kp X           &kp C             &kp D        &kp V          &kp K        &kp H          &kp COMMA    &kp DOT     &kp FSLH          &kp ENTER
                                         &kp LGUI          &to 1        &lt 2 SPACE    &lt 3 SPACE  &kp BACKSPACE  &kp DELETE
